@@ -1,4 +1,6 @@
+
 n=int(input("enter any number greater than 2: "))
+n=int(input("enter any number: ")
 count=0
 for i in range(2,n):
     if n%i==0:
